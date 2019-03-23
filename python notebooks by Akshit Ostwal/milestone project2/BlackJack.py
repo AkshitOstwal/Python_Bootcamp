@@ -202,7 +202,6 @@ while True:
         else:
             push(player,dealer)
 
-
     # Inform Player of their chips total 
     print("\n Player total chips are :{} ".format(chips.total))
         
